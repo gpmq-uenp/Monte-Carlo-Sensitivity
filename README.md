@@ -51,5 +51,5 @@ The master seed is fixed at `2026` and reset at the start of each comparable tre
 
 Sozzo, B.T.S.; Souza, R.S.; Naozuka, G.T. How much do modelling choices move the risk estimate? Distribution family, dependence and hurdle rate in investment appraisal. *Computational Economics* (under review).
 
-Sozzo, B.T.S.; Souza, R.S.; Naozuka, G.T. Monte Carlo Sensitivity, 2026. Version 1.0. Available online: https://github.com/gpmq-uenp/Monte-Carlo-Sensitivity (accessed on [DATE]), doi: [ZENODO DOI]
+Sozzo, B.T.S.; Souza, R.S.; Naozuka, G.T. Monte Carlo Sensitivity, 2026. Version 1.0. Available online: https://github.com/gpmq-uenp/Monte-Carlo-Sensitivity (accessed on 23 August 2026), doi: https://doi.org/10.5281/zenodo.22073342
 
